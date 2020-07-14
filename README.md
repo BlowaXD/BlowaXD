@@ -14,6 +14,8 @@ Tech stack:
 - Emulator: .NET Core 3.1 (C# 8), gRPC, RabbitMQ, ELK, MongoDB, PostgreSQL
 - DevOps: Ansible, Terraform, Docker, Gitlab CI, Sentry, ElasticSearch, Prometheus, Grafana
 - Internal usage softwares (own made): Golang, Rust, .NET Core, C++, Powershell
+- Web: VueJS (frontend), React (Wiki/Documentation) + ASP.NET Core (Backend)
+- Mobile App: Flutter
 - Client Modding SDK: C++, ASM
 - Resources Modding: C#, Golang
 
