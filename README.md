@@ -1,6 +1,6 @@
 # BlowaXD 
 
-Software Engineering Student, living in Paris, France.
+Cloud Engineer, living in Paris, France.
 
 ## Social:
 <a href="https://github.com/blowaxd"><img src="https://img.shields.io/badge/-@BlowaXD-%23181717?style=flat-square&logo=github" height="25"></a>
