@@ -37,27 +37,45 @@ Software Engineering Student, living in Paris, France.
 
 <code><img height="50" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
 <code><img height="50" src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png"></code>
-<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Teamcity_Logo.png/600px-Teamcity_Logo.png"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TeamCity_Icon.png/240px-TeamCity_Icon.png"></code>
 <code><img height="50" src="https://www.jenkins.io/images/logo_128.png"></code>
 <code><img height="50" src="https://avatars2.githubusercontent.com/ml/1303?s=140&v=4"></code>
 <code><img height="50" src="https://avatars2.githubusercontent.com/u/1231870?s=200&v=4"></code>
 
 ## My Projects
 
+### Olympus (former NosWings) - Tech Lead
+
+A MMORPG Private Server of the game NosTale, written from scratch with a team of passionate IT students.
+
+We are a team of ~15 people, developing our own Game server project, from the game server itself to all the tooling that permits to enhance our work.
+
+I work on all sides of the project, but my main focus are:
+- DevOps (SysAdmin, Kub admin, infra provisioning, CI/CD automation, demystifying some typical flows)
+- Global project architecture
+- Developing high productivity tooling/workflows
+- Complex, resilient, high performance software implementation & libraries.
+
+
+I also do team management, product management.
+We are evolving on several Cloud Providers for our project (OVH, Scaleway, Hetzner)
+
+Tech stack: 
+```yaml
+- Game Server: .NET 6, gRPC, RabbitMQ, ELK, PostgreSQL
+- DevOps: Kubernetes, Ansible, Terraform, Docker, Gitlab CI, Sentry, ElasticSearch, Prometheus, Thanos, Minio, K3s, Cillium, Grafana
+- Data: Airflow, ScyllaDB, Superset, Python
+- Internal usage softwares (own made): Golang, Python, .NET Core, C++, Rust, Powershell
+- Web: VueJS (frontend), React (Wiki/Documentation) + ASP.NET Core (Backend)
+- Client Modding SDK: C++, ASM
+- Resources Modding: C#, Golang
+```
+
+
 ### NosWings - Project Tech Lead
 A MMORPG Private Server of the game NosTale, written **from scratch** with a team of passionate IT students.
 
 I'm currently working as Tech Lead, in order to facilitate the team's work, I'm doing all the research, PoCs, libraries and managing all our infrastructure.
 We are working with several Cloud providers (OVH, Scaleway, AWS, GCP)
-
-Tech stack: 
-- Emulator: .NET 5 (C# 9), gRPC, RabbitMQ, ELK, MongoDB, PostgreSQL
-- DevOps: Ansible, Terraform, Docker, Gitlab CI, Sentry, ElasticSearch, Prometheus, Grafana
-- Internal usage softwares (own made): Golang, Rust, .NET Core, C++, Powershell
-- Web: VueJS (frontend), React (Wiki/Documentation) + ASP.NET Core (Backend)
-- Client Modding SDK: C++, ASM
-- Resources Modding: C#, Golang
-- Mobile App: Flutter
-
 
 ![Blowa's github stats](https://github-readme-stats.vercel.app/api?username=BlowaXD&show_icons=true&hide=[%22issues%22])
