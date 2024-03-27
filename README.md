@@ -1,6 +1,6 @@
 # BlowaXD 
 
-Cloud Engineer, living in Paris, France.
+Software Engineer, living in Paris, France.
 
 ## Social:
 <a href="https://github.com/blowaxd"><img src="https://img.shields.io/badge/-@BlowaXD-%23181717?style=flat-square&logo=github" height="25"></a>
@@ -36,7 +36,7 @@ Cloud Engineer, living in Paris, France.
 ## CI/CD experience:
 
 <code><img height="50" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"></code>
-<code><img height="50" src="https://about.gitlab.com/images/press/logo/png/gitlab-logo-gray-stacked-rgb.png"></code>
+<code><img height="50" src="https://images.ctfassets.net/xz1dnu24egyd/1IRkfXmxo8VP2RAE5jiS1Q/ea2086675d87911b0ce2d34c354b3711/gitlab-logo-500.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TeamCity_Icon.png/240px-TeamCity_Icon.png"></code>
 <code><img height="50" src="https://www.jenkins.io/images/logo_128.png"></code>
 <code><img height="50" src="https://avatars2.githubusercontent.com/ml/1303?s=140&v=4"></code>
@@ -48,27 +48,27 @@ Cloud Engineer, living in Paris, France.
 
 A MMORPG Private Server of the game NosTale, written from scratch with a team of passionate IT students.
 
-We are a team of ~15 people, developing our own Game server project, from the game server itself to all the tooling that permits to enhance our work.
+We are a team of ~10 people, engineering our own Game Server project, from the game server itself to all the tooling that permits to enhance our work.
 
 I work on all sides of the project, but my main focus are:
-- DevOps (SysAdmin, Kub admin, infra provisioning, CI/CD automation, demystifying some typical flows)
-- Global project architecture
-- Developing high productivity tooling/workflows
-- Complex, resilient, high performance software implementation & libraries.
+- Infra (Managing 7 self-hosted Kubernetes Cluster, several DBs, our own GitLab, backup tooling...)
+- DevOps (Infra provisioning, CI/CD automation, automating some complex workflows)
+- Developing productivity enhancing tools for the rest of the team
+- Reliable, high performance, stable software implementation & libraries.
 
 
 I also do team management, product management.
-We are evolving on several Cloud Providers for our project (OVH, Scaleway, Hetzner)
+We are evolving on several Cloud Providers for our project
 
 Tech stack: 
 ```yaml
-- Game Server: .NET 6, gRPC, RabbitMQ, ELK, PostgreSQL
-- DevOps: Kubernetes, Ansible, Terraform, Docker, Gitlab CI, Sentry, ElasticSearch, Prometheus, Thanos, Minio, K3s, Cillium, Grafana
-- Data: Airflow, ScyllaDB, Superset, Python
-- Internal usage softwares (own made): Golang, Python, .NET Core, C++, Rust, Powershell
+- Game Server: .NET 8 / Rust, gRPC, RabbitMQ, PostgreSQL
+- DevOps: Kubernetes, Ansible, Terraform, Docker, Gitlab CI, Sentry, Loki, Tempo, Prometheus, Thanos, Minio, K3s, Cillium, Grafana, ArgoCD
+- Data: Airflow, Superset, Python
+- Internal usage softwares (own made): .NET, Rust, Python, C++, Powershell
 - Web: VueJS (frontend), React (Wiki/Documentation) + ASP.NET Core (Backend)
 - Client Modding SDK: C++, ASM
-- Resources Modding: C#, Golang
+- Client Resources Modding: Python, .NET, Rust
 ```
 
 
